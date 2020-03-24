@@ -1,0 +1,26 @@
+body{
+    background-image: url("../../Images/bgimage (2).jpg");
+    height :500px;
+    background-color: black;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    border:10px solid orange;
+    margin:10px;
+}
+p,h2{
+    margin: 10px;
+    font-family: cursive;
+    color:black;
+    font-weight: 900;
+    
+}
+p{
+    font-size: 20px;
+}
+img{
+    margin: 10px;
+    background-position: left;
+    border:10px solid black;
+}
+	

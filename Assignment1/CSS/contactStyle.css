@@ -1,0 +1,30 @@
+body{
+    background-image: url("../../Images/bgimage (2).jpg");
+    height:500px;
+    background-color: black;
+    border:10px solid orange;
+}
+
+.contact{
+    background-color: orange;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 15%;
+}
+table,th,td{
+    color:black;
+    background-color: rgb(255, 191, 71);
+    padding: 10px;
+}
+table{
+    border:10px solid black;
+    position: absolute;
+    top:33%;
+    left:32%;
+    text-align: left;
+    font-family: cursive;
+    font-weight: bold;
+    
+}

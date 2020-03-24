@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    border:10px solid orange;
+}
+
+table,th,td{
+   
+    padding: 10px;
+    position: relative;
+    color:white;
+    font-family: cursive;
+}
+table{
+    
+    margin: 41px;
+    padding: 5px;
+    position: relative;
+    top:30%;
+    left:10%;
+}
+.logo{
+    border-radius: 50%;
+}

@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+
+  .homeimage{
+    filter: blur(8px); 
+} 
+
+.homeContainer{
+    border:10px solid rgb(255, 166, 0);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  .content
+   { 
+    border:2px solid white;
+    background-color: rgba(0,0,0, 0.4);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    top:30%;
+    left:38%;
+    padding: 50px;
+    font-family: cursive;
+    
+}
+
+.edu{
+    position: absolute;
+    top:7%;
+    right:10%;
+    width:100px;
+    height:100px;
+    border-radius: 30%;
+    border:10px solid orange;
+}
+.skills{
+    position: absolute;
+    top:7%;
+    right:25%;
+    width:100px;
+    height:100px;
+    border-radius: 30%;
+    border:10px solid orange;
+}
+.social{
+    position: absolute;
+    top:42%;
+    right:10%;
+    border-radius: 30%;
+    width:100px;
+    height:100px;
+    border:10px solid orange;
+}
+.resume{
+    position: absolute;
+    bottom:7%;
+    right:10%;
+    border-radius: 30%;
+    width:100px;
+    height:100px;
+    border:10px solid orange;
+}
+.contact{
+    position: absolute;
+    bottom:7%;
+    right:25%;
+    border-radius: 30%;
+    width:100px;
+    height:100px;
+    border:10px solid orange;
+}

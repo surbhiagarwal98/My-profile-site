@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    border:10px solid orange;
+    margin:10px;
+}
+.heading{
+    background-color: orange;
+}
+.list{
+    color:white;
+    font-family: cursive;
+    
+}
+.image{
+    width:200px;
+    height:200px;
+}
+table{
+    border-collapse: separate;
+    border-spacing: 100px;
+    position: relative;
+    left:20%;
+    margin: 10px;
+    padding: 10px;;
+}
